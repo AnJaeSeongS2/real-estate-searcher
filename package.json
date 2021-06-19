@@ -1,8 +1,8 @@
 {
-    "name": "ts-study",
+    "name": "real-estate-searcher",
     "version": "0.0.1",
     "main": "index.js",
-    "repository": "https://github.com/AnJaeSeongS2/ts-study",
+    "repository": "https://github.com/AnJaeSeongS2/real-estate-searcher",
     "author": "jaeseong",
     "license": "MIT",
     "scripts": {
